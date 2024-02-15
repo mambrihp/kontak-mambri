@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "nama": "Alice",
+        "nomor_telepon": "123-456-7890",
+        "email": "alice@example.com"
+    },
+    {
+        "id": 2,
+        "nama": "Bob",
+        "nomor_telepon": "987-654-3210",
+        "email": "bob@example.com"
+    },
+    {
+        "id": 3,
+        "nama": "Charlie",
+        "nomor_telepon": "555-123-4567",
+        "email": "charlie@example.com"
+    },
+    {
+        "id": 4,
+        "nama": "David",
+        "nomor_telepon": "444-567-8901",
+        "email": "david@example.com"
+    },
+    {
+        "id": 5,
+        "nama": "Eva",
+        "nomor_telepon": "876-543-2109",
+        "email": "eva@example.com"
+    },
+    {
+        "id": 6,
+        "nama": "Frank",
+        "nomor_telepon": "321-654-0987",
+        "email": "frank@example.com"
+    },
+    {
+        "id": 7,
+        "nama": "Grace",
+        "nomor_telepon": "234-567-8901",
+        "email": "grace@example.com"
+    },
+    {
+        "id": 8,
+        "nama": "Hank",
+        "nomor_telepon": "876-123-4567",
+        "email": "hank@example.com"
+    },
+    {
+        "id": 9,
+        "nama": "Ivy",
+        "nomor_telepon": "654-321-0987",
+        "email": "ivy@example.com"
+    },
+    {
+        "id": 10,
+        "nama": "Jack",
+        "nomor_telepon": "789-456-1230",
+        "email": "jack@example.com"
+    }
+]
