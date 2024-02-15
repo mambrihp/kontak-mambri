@@ -1,21 +1,21 @@
 [
     {
         "id": 1,
-        "nama": "Alice",
+        "nama": "Alif",
         "nomor_telepon": "123-456-7890",
-        "email": "alice@example.com"
+        "email": "alif@example.com"
     },
     {
         "id": 2,
-        "nama": "Bob",
+        "nama": "Bobi",
         "nomor_telepon": "987-654-3210",
-        "email": "bob@example.com"
+        "email": "bobi@example.com"
     },
     {
         "id": 3,
-        "nama": "Charlie",
+        "nama": "Lian",
         "nomor_telepon": "555-123-4567",
-        "email": "charlie@example.com"
+        "email": "lian@example.com"
     },
     {
         "id": 4,
@@ -31,32 +31,32 @@
     },
     {
         "id": 6,
-        "nama": "Frank",
+        "nama": "Ayu",
         "nomor_telepon": "321-654-0987",
-        "email": "frank@example.com"
+        "email": "ayu@example.com"
     },
     {
         "id": 7,
-        "nama": "Grace",
+        "nama": "Cika",
         "nomor_telepon": "234-567-8901",
-        "email": "grace@example.com"
+        "email": "Cika@example.com"
     },
     {
         "id": 8,
-        "nama": "Hank",
+        "nama": "Hani",
         "nomor_telepon": "876-123-4567",
-        "email": "hank@example.com"
+        "email": "hani@example.com"
     },
     {
         "id": 9,
-        "nama": "Ivy",
+        "nama": "Eva",
         "nomor_telepon": "654-321-0987",
-        "email": "ivy@example.com"
+        "email": "eva@example.com"
     },
     {
         "id": 10,
-        "nama": "Jack",
+        "nama": "Surya",
         "nomor_telepon": "789-456-1230",
-        "email": "jack@example.com"
+        "email": "surya@example.com"
     }
 ]
